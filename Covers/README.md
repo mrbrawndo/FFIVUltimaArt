@@ -52,8 +52,4 @@ Japan PS1 Cover Art with Guests (Yoshitaka Amano) (264x352)
 
 ![Antlion Lutris Alt Logo](https://github.com/mrbrawndo/FFIVUltimaArt/blob/main/Covers/Antlion_Lutris_AltLogo.png?raw=true)
 
-Antlion (Antlion) Alternative Logo
-
-![Antlion Lutris Alt Logo](https://github.com/mrbrawndo/FFIVUltimaArt/blob/main/Covers/Antlion_Lutris_AltLogo.png?raw=true)
-
 Antlion (Antlion)
