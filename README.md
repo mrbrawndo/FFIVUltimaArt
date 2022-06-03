@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/mrbrawndo/FFIVUltimaArt/main/Logo/Logo_Gradient.png)
 # Final Fantasy IV Ultima Launcher Art
 Launcher resources for use in Lutris and Steam.
 
